@@ -848,7 +848,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "", ctx_r4.description, " - ", i_r3, " - Il Pozzo di San Lorenzo - Via Pretoria, Potenza");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "", ctx_r4.description, " - ", i_r3, " - B&B Suite Pretoria - Via Pretoria 63, Potenza");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", img_r2, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
       }
@@ -1182,7 +1182,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "p", 21);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Nato dalla passione per i viaggi di Maria Grazia e Claudio il Pozzo di San Lorenzo offre un'ospitalit\xE0 curata in ogni dettaglio. A vostra disposizione avrete tutte le nostre attenzioni, una solida rete WiFi e una meticolosa cura per la pulizia, senza dimenticare la colazione ai tavoli del caff\xE8 affacciato sulla piazza principale.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Nato dalla passione per i viaggi di Maria Grazia e Claudio la Suite Pretoria offre un'ospitalit\xE0 curata in ogni dettaglio. A vostra disposizione avrete tutte le nostre attenzioni, una solida rete WiFi e una meticolosa cura per la pulizia, senza dimenticare la colazione ai tavoli del caff\xE8 affacciato sulla piazza principale.");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](39, "br");
 

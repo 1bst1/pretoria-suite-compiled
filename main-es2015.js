@@ -432,7 +432,7 @@ function GalleryComponent_2_ng_template_0_Template(rf, ctx) { if (rf & 1) {
     const img_r2 = ctx_r5.$implicit;
     const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "", ctx_r4.description, " - ", i_r3, " - Il Pozzo di San Lorenzo - Via Pretoria, Potenza");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate2"]("alt", "", ctx_r4.description, " - ", i_r3, " - B&B Suite Pretoria - Via Pretoria 63, Potenza");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", img_r2, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function GalleryComponent_2_Template(rf, ctx) { if (rf & 1) {
@@ -598,7 +598,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "div", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "p", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Nato dalla passione per i viaggi di Maria Grazia e Claudio il Pozzo di San Lorenzo offre un'ospitalit\u00E0 curata in ogni dettaglio. A vostra disposizione avrete tutte le nostre attenzioni, una solida rete WiFi e una meticolosa cura per la pulizia, senza dimenticare la colazione ai tavoli del caff\u00E8 affacciato sulla piazza principale.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Nato dalla passione per i viaggi di Maria Grazia e Claudio la Suite Pretoria offre un'ospitalit\u00E0 curata in ogni dettaglio. A vostra disposizione avrete tutte le nostre attenzioni, una solida rete WiFi e una meticolosa cura per la pulizia, senza dimenticare la colazione ai tavoli del caff\u00E8 affacciato sulla piazza principale.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](39, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](40, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, " Nell'ampia Suite avrete a disposizione tavolo, angolo cottura, un bagno spazioso e tutto l'occorrente per trascorrere uno splendido soggiorno. ");
